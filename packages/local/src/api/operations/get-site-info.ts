@@ -23,10 +23,10 @@ export default function getSiteInfoOperation({}: OperationContext<any>) {
     return Promise.resolve({
       categories: [
         {
-          id: 'new-arrivals',
-          name: 'New Arrivals',
-          slug: 'new-arrivals',
-          path: '/new-arrivals',
+          id: 'nuovi-arrii',
+          name: 'Nuovi-Arrivi',
+          slug: 'nuovi-arrivi',
+          path: '/nuovi arrivi',
         },
         {
           id: 'featured',
