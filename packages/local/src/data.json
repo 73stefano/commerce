@@ -11,11 +11,11 @@
       
       "categories": [
         {
-          id: 'nuovi-arrivi',
-          name: 'Nuovi-Arrivi',
-          slug: 'nuovi-arrivi',
-          path: '/nuovi arrivi',
-        },
+          "id": 'nuovi-arrivi',
+          "name": 'Nuovi-Arrivi',
+          "slug:" 'nuovi-arrivi',
+          "path": '/nuovi arrivi',
+        }],
         
       "images": [
         {
